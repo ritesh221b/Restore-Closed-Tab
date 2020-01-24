@@ -3,7 +3,7 @@
 $box.createMenu({
 	id:'extractUrl',
 	title : "Restore closed tabs",
-	contexts : ['all']
+	contexts : ['page']
 });
 
 $box.onMenuClick('extractUrl',()=>{

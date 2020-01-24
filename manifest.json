@@ -8,6 +8,7 @@
   },
   "browser_action": {
     "default_icon": "/res/images/logo.png",
+    "default_popup": "popup.html",
     "default_title": "Restorify - Restore Closed Tab"
   },
   "icons": {
